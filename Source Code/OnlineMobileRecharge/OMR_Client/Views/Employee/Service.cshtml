@@ -1,0 +1,54 @@
+﻿@model IEnumerable<OMR_Client.Models.Service>
+@{
+    ViewBag.Title = "Service";
+    Layout = "~/Views/Shared/_LayoutEmp.cshtml";
+    int i = 1;
+}
+<main id="main" class="main">
+    <section class="section">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Employee</h5>
+                <h6>@Html.ActionLink("Create New Service", "CreateService")</h6>
+                <!-- Table with hoverable rows -->
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Service Provider</th>
+                            <th scope="col">Service</th>
+                            <th scope="col">Service Description</th>
+                            <th scope="col">Price</th>
+                            <th scope="col">Days</th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <th scope="row">@i</th>
+                                <td>@item.ServiceProviderName</td>
+                                <td>@item.ServiceName</td>
+                                <td>@item.ServiceDescription</td>
+                                <td>@item.Price</td>
+                                <td>@item.Days</td>
+                                <td>@Html.ActionLink("Detail", "DetailService", new { serviceid = item.ServiceID }, new { @class = "btn btn-primary" })</td>
+                                <td>@Html.ActionLink("Edit", "EditService", new { serviceid = item.ServiceID }, new { @class = "btn btn-success" })</td>
+                                <td>@Html.ActionLink("Delete", "DeleteService", new { serviceid = item.ServiceID }, new { @class = "btn btn-danger" })</td>
+                            </tr>
+                            i++;
+                        }
+                    </tbody>
+                </table>
+                <!-- End Table with hoverable rows -->
+
+            </div>
+        </div>
+    </section>
+</main>
+
+

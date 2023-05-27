@@ -1,0 +1,84 @@
+﻿@model OMR_Client.Models.Service
+
+@{
+    ViewBag.Title = "GetDetailsService";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class=" container-fluid col-lg-7">
+    <div class="content">
+        <div class="pack-detail">
+            <div class="pack-detail__left">
+                <div class="pack-detail__head">
+                    <ul class="pack-detail__list">
+                        <li class="pack-detail__item">
+                            <span class="pack-detail__item-icon"><img src="https://vietteltelecom.vn/images_content/icon-service-sm.png" alt="icon"></span>
+                            <div class="pack-detail__item-info">
+                                <h5 class="pack-detail__item-name" style="line-height: 14px;">
+                                    Tên gói cước
+                                </h5> <p class="pack-detail__item-value" style="line-height: 24px; overflow: visible;">
+                                    @Html.DisplayFor(model => Model.ServiceName)
+                                </p>
+                            </div>
+                        </li>
+                        <li class="pack-detail__item">
+                            <span class="pack-detail__item-icon"><img src="https://vietteltelecom.vn/images_content/icon-wallet-sm.png" alt="icon"></span>
+                            <div class="pack-detail__item-info">
+                                <h5 class="pack-detail__item-name" style="line-height: 14px;">
+                                    Giá gói cước
+                                </h5> <p class="pack-detail__item-value" style="line-height: 24px; overflow: visible;">
+                                    @Html.DisplayFor(model => Model.Price)
+                                </p>
+                            </div>
+                        </li>
+                        <li class="pack-detail__item">
+                            <span class="pack-detail__item-icon"><img src="https://vietteltelecom.vn/images_content/icon-calendar-sm.png" alt="icon"></span>
+                            <div class="pack-detail__item-info">
+                                <h5 class="pack-detail__item-name" style="line-height: 14px;">
+                                    Thời gian
+                                </h5> <p class="pack-detail__item-value" style="line-height: 24px; overflow: visible;">
+                                     @Html.DisplayFor(model => Model.Days)
+                                </p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="pack-detail__endow" style="margin-bottom: 44px;">
+                    <div class="pack-detail__box">
+                        <div class="pack-detail__box-inner">
+                            <div class="pack-detail__box-top">
+                                <h5 class="pack-detail__box-sub">Ưu đãi</h5>
+                            </div>
+                            <div class="pack-detail__box-content">
+                                <div class="pack-detail__box-info" style="min-height: 230px; max-height: 430px;">
+                                    <p class="pack-detail__box-des"><p>
+                                        <strong>Giá cước:</strong>  @Html.DisplayFor(model => Model.Price)/lần
+                                    </p>
+                                    <p>
+                                         @Html.DisplayFor(model => Model.ServiceDescription)
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pack-detail__box-btn">
+                    <div class="button-bottom button-mw241 button-mw241 pack-detail__box-btn" style="margin: 0px 0px 12px;">
+                        <a href="javascript:void(0)" class="button button--primary">Đăng ký</a>
+                    </div>
+                </div> <p class="pack-detail__notice" style="height: 50px; position: absolute;">
+
+                    <br>
+                </p>
+            </div>
+
+        </div>
+    </div>
+   
+</div>  
+
+
+
+
+
+

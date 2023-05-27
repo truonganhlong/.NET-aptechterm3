@@ -1,0 +1,82 @@
+﻿@model OMR_Client.Models.Employee
+@{
+    ViewBag.Title = "DetailEmployee";
+    Layout = "~/Views/Shared/_LayoutEmp.cshtml";
+}
+
+
+<main id="main" class="main">
+    <section class="section">
+        <h2>Details Customer </h2>
+        <hr />
+        <div class="row">
+            <div class="col-sm-4 mb-3 mb-sm-0">
+                <div class="card">
+                    <div class="col mb-5 mb-5 mb-xl-0">
+                        <div class="text-center">
+                            @if (Model.AvatarLink == null)
+                            {
+                                <img class="img-fluid rounded-circle mb-4 px-4" src="@Url.Content("~/Content/Images/defaultavatar.jpg")" alt="Profile" style="max-width: 100%; max-height: 100%">
+                            }
+                            else
+                            {
+                                <img class="img-fluid rounded-circle mb-4 px-4" src="@Url.Content(Model.AvatarLink)" alt="Profile" style="max-width: 100%; max-height: 100%">
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-8">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Name</h5>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                @Html.DisplayNameFor(model => model.Fullname)
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.Fullname)
+                            </dd>
+
+                            <dt>
+                                @Html.DisplayNameFor(model => model.Email)
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.Email)
+                            </dd>
+
+                            <dt>
+                                @Html.DisplayNameFor(model => model.Phone)
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.Phone)
+                            </dd>
+
+                            <dt>
+                                Employee for
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.ServiceProviderName)
+                            </dd>
+
+                            <dt>
+                                Register at
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.CreatedAt)
+                            </dd>
+
+                        </dl>
+                    </div>
+                    @Html.ActionLink("Back to List", "Employee")
+
+                </div>
+            </div>
+        </div>
+    </section>
+</main>

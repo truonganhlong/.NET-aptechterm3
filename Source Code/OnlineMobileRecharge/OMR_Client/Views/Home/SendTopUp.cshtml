@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "SendTopUp";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+    <div class="py-5">
+        <div class="container px-5">
+            <div class="row gx-5 align-items-center justify-content-center">
+                <div class="col-lg-8 col-xl-7 col-xxl-6">
+                    <div class="my-5 text-center text-xl-start">
+                        <h1 class="display-5 fw-bolder mb-2">Ding was founded to improve people’s lives by helping those with less, gain access to more</h1>
+                    </div>
+                </div>
+                <div class=" col-xl-5 col-xxl-6  d-xl-block text-center">
+
+
+                    <div class="bg-white card-body rounded-4">
+                        <h3 class="card-title" style="height: 5rem;">Who are your sending top-up to?</h3>
+                        <form action="/Home/Send" method="post">
+                            <div class="input-group mb-2">
+                                <input class="form-control" type="text" placeholder="Enter number..." aria-label="Email address..." aria-describedby="button-newsletter" name="phone" />
+                                <button class="btn btn-success" id="button-newsletter" type="submit">Send</button>
+                            </div>
+                        </form>
+                        <div class="small text-white-50">We care about privacy, and will never share your data.</div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+

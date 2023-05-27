@@ -1,0 +1,190 @@
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\OMR_Client.dll.config
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\OMR_Client.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\OMR_Client.pdb
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\csc.exe
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\csc.exe.config
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\csc.rsp
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\csi.exe
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\csi.exe.config
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\csi.rsp
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.AppContext.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Collections.Immutable.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Console.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Globalization.Calendars.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.IO.Compression.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.IO.FileSystem.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Net.Http.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Net.Sockets.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Reflection.Metadata.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.ValueTuple.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Xml.XPath.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\vbc.exe
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\vbc.exe.config
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\vbc.rsp
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\VBCSCompiler.exe
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\VBCSCompiler.exe.config
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Antlr3.Runtime.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Microsoft.Web.Infrastructure.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Newtonsoft.Json.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.Helpers.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.Mvc.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.Optimization.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.Razor.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.WebPages.Deployment.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.WebPages.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.WebPages.Razor.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\WebGrease.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.Helpers.xml
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.Mvc.xml
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.Optimization.xml
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.Razor.xml
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.WebPages.xml
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.WebPages.Deployment.xml
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.WebPages.Razor.xml
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Newtonsoft.Json.xml
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Antlr3.Runtime.pdb
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\obj\Debug\OMR_Client.csproj.AssemblyReference.cache
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\obj\Debug\OMR_Client.csproj.CoreCompileInputs.cache
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\obj\Debug\OMR_Client.csproj.CopyComplete
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\obj\Debug\OMR_Client.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\obj\Debug\OMR_Client.pdb
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Microsoft.AspNetCore.Http.Features.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Microsoft.Extensions.Primitives.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Buffers.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.IO.Pipelines.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Memory.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Numerics.Vectors.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Runtime.CompilerServices.Unsafe.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Threading.Tasks.Extensions.dll
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Microsoft.AspNetCore.Http.Features.xml
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Microsoft.Extensions.Primitives.xml
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Buffers.xml
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.IO.Pipelines.xml
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Memory.xml
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Numerics.Vectors.xml
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Runtime.CompilerServices.Unsafe.xml
+H:\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\OMR_Client.dll.config
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\OMR_Client.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\OMR_Client.pdb
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\csc.exe
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\csc.exe.config
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\csc.rsp
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\csi.exe
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\csi.exe.config
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\csi.rsp
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Console.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\vbc.exe
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\vbc.exe.config
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\vbc.rsp
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Antlr3.Runtime.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Buffers.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.IO.Pipelines.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Memory.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.Helpers.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.Mvc.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.Optimization.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.Razor.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.WebPages.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\WebGrease.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Buffers.xml
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.IO.Pipelines.xml
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Memory.xml
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.Helpers.xml
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.Mvc.xml
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.Optimization.xml
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.Razor.xml
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.WebPages.xml
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Newtonsoft.Json.xml
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\obj\Debug\OMR_Client.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\obj\Debug\OMR_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\obj\Debug\OMR_Client.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\obj\Debug\OMR_Client.dll
+C:\Users\Admin\OneDrive\Máy tính\Online-Mobile-Recharge\OnlineMobileRecharge\OMR_Client\obj\Debug\OMR_Client.pdb

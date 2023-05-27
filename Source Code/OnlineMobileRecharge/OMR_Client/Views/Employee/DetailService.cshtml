@@ -1,0 +1,61 @@
+﻿@model OMR_Client.Models.Service
+@{
+    ViewBag.Title = "DetailService";
+    Layout = "~/Views/Shared/_LayoutEmp.cshtml";
+}
+
+
+<main id="main" class="main">
+    <section class="section">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Customers</h5>
+                <dl class="dl-horizontal">
+                    <dt>
+                        Service Provider
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.ServiceProviderName)
+                    </dd>
+
+                    <dt>
+                        Service
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.ServiceName)
+                    </dd>
+
+                    <dt>
+                        Service Description
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.ServiceDescription)
+                    </dd>
+
+                    <dt>
+                        Price
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Price)
+                    </dd>
+
+                    <dt>
+                        Days
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Days)
+                    </dd>
+
+                </dl>
+            </div>
+            <p>
+                @Html.ActionLink("Back to List", "Service")
+            </p>
+        </div>
+    </section>
+</main>

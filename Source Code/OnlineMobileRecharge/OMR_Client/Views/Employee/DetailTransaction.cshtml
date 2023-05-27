@@ -1,0 +1,83 @@
+﻿@model OMR_Client.Models.History
+@{
+    ViewBag.Title = "DetailTransaction";
+    Layout = "~/Views/Shared/_LayoutEmp.cshtml";
+}
+<main id="main" class="main">
+    <section class="section">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Detail Transaction</h5>
+                <dl class="dl-horizontal">
+                    <dt>
+                        Service
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.ServiceDescription)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Fullname)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Fullname)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Phone)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Phone)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Price)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Price)
+                    </dd>
+
+                    <dt>
+                        Payment Type
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.PaymentType)
+                    </dd>
+
+                    <dt>
+                        Transfer Time
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.TransferTime)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Days)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Days)
+                    </dd>
+
+                    <dt>
+                        End Time
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.EndTime)
+                    </dd>
+                </dl>
+            </div>
+            <p>
+                @Html.ActionLink("Back to List", "Transaction")
+            </p>
+        </div>
+    </section>
+</main>
+

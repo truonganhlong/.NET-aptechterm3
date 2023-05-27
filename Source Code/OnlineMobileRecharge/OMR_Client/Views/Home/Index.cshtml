@@ -1,0 +1,132 @@
+﻿<!-- Header-->
+<header class="bg-dark py-5">
+    <div class="container px-5">
+        <div class="row gx-5 align-items-center justify-content-center">
+            <div class="col-lg-8 col-xl-7 col-xxl-6">
+                <div class="my-5 text-center text-xl-start">
+                    <h1 class="display-5 fw-bolder text-white mb-2">The fastest way to send top-up worldwide</h1>
+                    <p class="lead fw-normal text-white-50 mb-4">99% of mobile recharges sent online with Ding arrive in 3 seconds.</p>
+                    <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
+                        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Get Started</a>
+                        <a class="btn btn-outline-light btn-lg px-4" href="#!">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center">
+                <div class="bg-white card-body rounded-4">
+                    <h4 class="card-title">Who are your sending top-up to ?</h4>
+                    <form action="/Home/Send" method="post">
+                        <div class="input-group mb-2">
+                            <input class="form-control" type="text" placeholder="Enter number..." aria-label="Email address..." aria-describedby="button-newsletter" name="phone" />
+                            <button class="btn btn-success" id="button-newsletter" type="submit">Send</button>
+                        </div>
+                    </form>
+                    <div class="small text-black-50">We care about privacy, and will never share your data.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<section class="py-5" id="features">
+    <div class="container px-5 my-5">
+        <div class="row gx-5">
+            <div class="col-lg-4 mb-5 mb-lg-0">
+                <h2 class="fw-bolder mb-0">
+                    More than 80% of the world’s 5 billion mobile phones are now prepaid – and growing.
+                </h2>
+            </div>
+            <div class="col-lg-8">
+                <div class="row gx-5 row-cols-1 row-cols-md-2">
+                    <div class="col mb-5 h-100">
+                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-phone"></i></div>
+                        <h2 class="h5">5 billion</h2>
+                        <p class="mb-0">Phones reached</p>
+                    </div>
+                    <div class="col mb-5 h-100">
+                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-globe"></i></div>
+                        <h2 class="h5">150+</h2>
+                        <p class="mb-0">Countries</p>
+                    </div>
+                    <div class="col mb-5 mb-md-0 h-100">
+                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-file-earmark-post"></i></div>
+                        <h2 class="h5">550+</h2>
+                        <p class="mb-0">Operators</p>
+                    </div>
+                    <div class="col h-100">
+                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-shop"></i></div>
+                        <h2 class="h5">600K+</h2>
+                        <p class="mb-0">Retail partners</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Testimonial section-->
+<div class="py-5 bg-light">
+    <div class="container px-5 my-5">
+        <div class="row gx-5 justify-content-center">
+            <div class="col-lg-10 col-xl-7">
+                <div class="text-center">
+                    <div class="fs-4 mb-4 fst-italic">
+                    "Mobile phones can change lives and therefore so can we. It’s a massive responsibility and a global opportunity. That’s why we do everything we can every day to make people’s lives a little better through mobile top-up."</div>
+                    <div class="d-flex align-items-center justify-content-center">
+                        @*<img class="rounded-circle me-3" src="https://dummyimage.com/40x40/ced4da/6c757d" alt="..." />*@
+                        <div class="fw-bold">
+                            Mark Roden
+                            <span class="fw-bold text-primary mx-1">/</span>
+                            Founder
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Blog preview section-->
+<section class="py-5">
+    <div class="container px-5 my-5">
+        <div class="row gx-5 justify-content-center">
+            <div class="col-lg-8 col-xl-6">
+                <div class="text-center">
+                    <h2 class="fw-bolder">From our service</h2>
+                    <p class="lead fw-normal text-muted mb-5">We can supply you all services of each service providers</p>
+                </div>
+            </div>
+        </div>
+        <div class="row gx-5">
+            <div class="col-lg-4 mb-5">
+                <div class="card h-100 shadow border-0">
+                    <img class="card-img-top" src="~/Content/Images/viettel-ad.jpg" alt="viettel-ad" />
+                    <div class="card-body p-4">
+                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">News</div>
+                        <a class="text-decoration-none link-dark stretched-link" href="@Url.Action("ServiceProvider", "Home", new {id = 1})"><h5 class="card-title mb-3">Viettel</h5></a>
+                        <p class="card-text mb-0">Check all and new Viettel services</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 mb-5">
+                <div class="card h-100 shadow border-0">
+                    <img class="card-img-top" src="~/Content/Images/vinaphone-ad.png" alt="vinaphone-ad" />
+                    <div class="card-body p-4">
+                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">News</div>
+                        <a class="text-decoration-none link-dark stretched-link" href="@Url.Action("ServiceProvider", "Home", new {id = 2})"><h5 class="card-title mb-3">Vinaphone</h5></a>
+                        <p class="card-text mb-0">Check all and new Vinaphone services</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 mb-5">
+                <div class="card h-100 shadow border-0">
+                    <img class="card-img-top" src="~/Content/Images/mobiphone-ad.jpg" alt="mobiphone-ad" />
+                    <div class="card-body p-4">
+                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">News</div>
+                        <a class="text-decoration-none link-dark stretched-link" href="@Url.Action("ServiceProvider", "Home", new {id = 3})"><h5 class="card-title mb-3">Mobiphone</h5></a>
+                        <p class="card-text mb-0">Check all and new Mobiphone services</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Call to action-->
+      
+    </div>
+</section>

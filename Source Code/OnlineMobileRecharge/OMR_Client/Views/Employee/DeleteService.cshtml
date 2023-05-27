@@ -1,0 +1,96 @@
+﻿@model OMR_Client.Models.Service
+@{
+    ViewBag.Title = "DeleteService";
+    Layout = "~/Views/Shared/_LayoutEmp.cshtml";
+}
+
+
+<main id="main" class="main">
+    <section class="section">
+        <div class="card">
+            <div class="card-body">
+
+                <h3>Are you sure you want to delete this?</h3>
+                <div>
+                    <hr />
+                    <div class=" container-fluid col-lg-10">
+                        <div class="content">
+                            <div class="pack-detail">
+                                <div class="pack-detail__left">
+                                    <div class="pack-detail__head">
+                                        <ul class="pack-detail__list">
+                                            <li class="pack-detail__item">
+                                                <span class="pack-detail__item-icon"><img src="https://vietteltelecom.vn/images_content/icon-service-sm.png" alt="icon"></span>
+                                                <div class="pack-detail__item-info">
+                                                    <h5 class="pack-detail__item-name" style="line-height: 14px;">
+                                                        Service Type
+                                                    </h5> <p class="pack-detail__item-value" style="line-height: 24px; overflow: visible;">
+                                                        @Html.DisplayFor(model => Model.ServiceName)
+                                                    </p>
+                                                </div>
+                                            </li>
+                                            <li class="pack-detail__item">
+                                                <span class="pack-detail__item-icon"><img src="https://vietteltelecom.vn/images_content/icon-wallet-sm.png" alt="icon"></span>
+                                                <div class="pack-detail__item-info">
+                                                    <h5 class="pack-detail__item-name" style="line-height: 14px;">
+                                                        Price
+                                                    </h5> <p class="pack-detail__item-value" style="line-height: 24px; overflow: visible;">
+                                                        @Html.DisplayFor(model => Model.Price)
+                                                    </p>
+                                                </div>
+                                            </li>
+                                            <li class="pack-detail__item">
+                                                <span class="pack-detail__item-icon"><img src="https://vietteltelecom.vn/images_content/icon-calendar-sm.png" alt="icon"></span>
+                                                <div class="pack-detail__item-info">
+                                                    <h5 class="pack-detail__item-name" style="line-height: 14px;">
+                                                        Time
+                                                    </h5> <p class="pack-detail__item-value" style="line-height: 24px; overflow: visible;">
+                                                        @Html.DisplayFor(model => Model.Days)
+                                                    </p>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="pack-detail__endow" style="margin-bottom: 44px;">
+                                        <div class="pack-detail__box">
+                                            <div class="pack-detail__box-inner">
+                                                <div class="pack-detail__box-top">
+                                                    <h5 class="pack-detail__box-sub">Description</h5>
+                                                </div>
+                                                <div class="pack-detail__box-content">
+                                                    <div class="pack-detail__box-info" style="min-height: 230px; max-height: 430px;">
+                                                        <p class="pack-detail__box-des"><p>
+                                                            <strong>Price</strong>  @Html.DisplayFor(model => Model.Price)/time
+                                                        </p>
+                                                        <p>
+                                                            @Html.DisplayFor(model => Model.ServiceDescription)
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    @using (Html.BeginForm())
+                                    {
+                                        @Html.AntiForgeryToken()
+
+                                        <div class="form-actions no-color">
+                                            <input type="submit" value="Delete" class="btn btn-danger" /> |
+                                            @Html.ActionLink("Back to List", "Service")
+                                        </div>
+                                    }
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+</main>
